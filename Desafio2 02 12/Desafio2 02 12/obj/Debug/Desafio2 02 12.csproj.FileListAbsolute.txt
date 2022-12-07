@@ -1,0 +1,11 @@
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\bin\Debug\Desafio2 02 12.exe.config
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\bin\Debug\Desafio2 02 12.exe
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\bin\Debug\Desafio2 02 12.pdb
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\obj\Debug\Desafio2 02 12.csproj.AssemblyReference.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\obj\Debug\Desafio2 02 12.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\obj\Debug\Desafio2_02_12.Form1.resources
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\obj\Debug\Desafio2_02_12.Properties.Resources.resources
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\obj\Debug\Desafio2 02 12.csproj.GenerateResource.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\obj\Debug\Desafio2 02 12.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\obj\Debug\Desafio2 02 12.exe
+C:\Users\rodrigo.bguerreiro\source\repos\Meus Projetos\Desafio2 02 12\Desafio2 02 12\obj\Debug\Desafio2 02 12.pdb
